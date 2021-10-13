@@ -23,6 +23,7 @@ for (i=0; i<n ; i++){
 }
 a=S1;
 b=S2;
+if(S1 < S2 ) 
 {
     int p =S1;
     S1 = S2;
