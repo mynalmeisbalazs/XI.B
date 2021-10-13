@@ -12,7 +12,7 @@ cin>>szam;
     for(oszto=2;oszto<szam/2+1;oszto++)
     {
         if(szam%oszto==0)
-        prim=false;
+        prim==false;
     }
     if(prim==true){
         cout<<"szam prim";
